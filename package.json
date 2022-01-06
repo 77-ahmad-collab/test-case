@@ -1,6 +1,10 @@
 {
   "name": "tescset",
   "version": "0.0.1",
+  "engines":{
+    "node":"14.17.6",
+    "npm":"7.22.0"
+  }
   "description": "",
   "author": "",
   "private": true,
